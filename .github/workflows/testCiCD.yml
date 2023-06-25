@@ -13,4 +13,4 @@ jobs:
       - name: setup Node.js envirment
         uses: actions/setup-node@v2-beta
         with:
-         version: 12
+         node-version: 12
